@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Anusmita
-![(https://asset.cloudinary.com/dcugof3zo/ebd7969e0be136ed0fda16e4784a89f6)]
+
+![Beige Gradient Modern Personal LinkedIn Banner](https://github.com/anuHait/anuHait/assets/95765292/92b80f40-0164-4b5e-ade3-7a71785182c0)
 
 I am a passionate developer adept at crafting innovative projects and using cutting-edge technologies. I can build visually stunning and functional websites. I also enjoy problem-solving .
 
