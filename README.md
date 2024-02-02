@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Anusmita
 
-![Beige Gradient Modern Personal LinkedIn Banner](https://github.com/anuHait/anuHait/assets/95765292/92b80f40-0164-4b5e-ade3-7a71785182c0)
 
 I am a passionate developer adept at crafting innovative projects and using cutting-edge technologies. I can build visually stunning and functional websites. I also enjoy problem-solving .
 
