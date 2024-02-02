@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Anusmita
-![](https://asset.cloudinary.com/dcugof3zo/ebd7969e0be136ed0fda16e4784a89f6)
+![(https://asset.cloudinary.com/dcugof3zo/ebd7969e0be136ed0fda16e4784a89f6)]
 
 I am a passionate developer adept at crafting innovative projects and using cutting-edge technologies. I can build visually stunning and functional websites. I also enjoy problem-solving .
 
