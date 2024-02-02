@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, I'm Anusmita
+![](https://asset.cloudinary.com/dcugof3zo/ebd7969e0be136ed0fda16e4784a89f6)
 
-<!--
-**anuHait/anuHait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate developer adept at crafting innovative projects and using cutting-edge technologies. I can build visually stunning and functional websites. I also enjoy problem-solving .
 
-Here are some ideas to get you started:
+Skills: Javacript, Typescript,React Js, Next Js, Node Js, Express Js, MongoDb, Tailwind
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anuHait)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anusmita-hait/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/anusmita_hait)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuHait)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=anuHait)  
+
